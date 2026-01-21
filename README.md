@@ -603,7 +603,7 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 **Built with ❤️ for financial freedom**
 
 **Live Demo**:  https://ledgerly-api-p6my.onrender.com/
-**GitHub**: (https://github.com/trisha0505/ledgerly)
+**GitHub**: https://github.com/trisha0505/Corderz.git
 
 
 
