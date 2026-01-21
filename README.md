@@ -604,6 +604,9 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 
 **Live Demo**:  https://ledgerly-api-p6my.onrender.com/
 **GitHub**: https://github.com/trisha0505/Corderz.git
+**Demo video**: 
 
+
+https://github.com/user-attachments/assets/dc8eba73-ae15-44cc-9112-e3768b363395
 
 
